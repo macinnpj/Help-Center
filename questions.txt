@@ -1,0 +1,8 @@
+can't sign in|creating-an-account
+log in|creating-an-account
+make my resume private|resume-builder
+can employers see my profile|profile-settings-privacy
+passkey|whats-new
+change my job preferences|profile-preferences
+upload resume|resume-builder
+hcaptcha|creating-an-account

@@ -1,0 +1,689 @@
+==================================================
+QUESTION: can't sign in
+SHOULD FIND: creating-an-account
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  creating-an-account.md  (score: 3.6116)
+  Creating an Account or Signing In
+  ...Ready to start or <mark>sign</mark> <mark>in</mark>? Follow the instructions below.
+
+- Creating an account
+- <mark>Signing</mark> <mark>in</mark>
+- Technical support | I <mark>can't</mark> bypass hCaptcha.
+- FAQs | Can I use Indeed to search the job listings...
+
+  creating-an-account.md  (score: 3.3234)
+  Technical support
+  ...<mark>Sign</mark> <mark>in</mark> using the incorrect email address. Next, access your Account settings to make email corrections.
+
+Problem: I <mark>can't</mark> bypass hCaptcha.
+
+Solution: <mark>Sign</mark> up for hCaptcha accessibility access. Follow the prompts...
+
+  profile-settings-privacy.md  (score: 3.2945)
+  Getting started
+  ...<mark>sign</mark> <mark>in</mark>.
+
+If your account is new, we'll prompt you to use the Profile settings menu at the start of the <mark>sign</mark>-up process.
+
+The default setting is Employers <mark>can't</mark>...
+
+  creating-an-account.md  (score: 2.2771)
+  Signing in
+  ## <mark>Signing</mark> <mark>in</mark>
+
+Here's how to use Google, Apple, or a unique email to <mark>sign</mark> <mark>in</mark>.
+
+Important: It's important to <mark>sign</mark> <mark>in</mark> using the same method each time. You'll avoid...
+
+  whats-new.md  (score: 1.8811)
+  Passkeys
+  ## Passkeys
+
+Passkeys are a safer, simpler way to <mark>sign</mark> <mark>in</mark> to your Indeed account. They use your device's built-<mark>in</mark> security, like a fingerprint, face scan, or screen lock. This means...
+
+  5 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  creating-an-account.md  (score: 0.0323)
+  Technical support
+  ...<mark>Sign</mark> <mark>in</mark> using the incorrect email address. Next, access your Account settings to make email corrections.
+
+Problem: I <mark>can't</mark> bypass hCaptcha.
+
+Solution: <mark>Sign</mark> up for hCaptcha accessibility access. Follow the prompts...
+
+  profile-settings-privacy.md  (score: 0.0315)
+  Getting started
+  ...<mark>sign</mark> <mark>in</mark>.
+
+If your account is new, we'll prompt you to use the Profile settings menu at the start of the <mark>sign</mark>-up process.
+
+The default setting is Employers <mark>can't</mark>...
+
+  creating-an-account.md  (score: 0.0313)
+  Creating an Account or Signing In
+  ...Ready to start or <mark>sign</mark> <mark>in</mark>? Follow the instructions below.
+
+- Creating an account
+- <mark>Signing</mark> <mark>in</mark>
+- Technical support | I <mark>can't</mark> bypass hCaptcha.
+- FAQs | Can I use Indeed to search the job listings...
+
+  creating-an-account.md  (score: 0.0303)
+  Signing in
+  ## <mark>Signing</mark> <mark>in</mark>
+
+Here's how to use Google, Apple, or a unique email to <mark>sign</mark> <mark>in</mark>.
+
+Important: It's important to <mark>sign</mark> <mark>in</mark> using the same method each time. You'll avoid...
+
+  whats-new.md  (score: 0.0295)
+  Passkeys
+  ## Passkeys
+
+Passkeys are a safer, simpler way to <mark>sign</mark> <mark>in</mark> to your Indeed account. They use your device's built-<mark>in</mark> security, like a fingerprint, face scan, or screen lock. This means...
+
+  5 result(s)
+
+==================================================
+QUESTION: log in
+SHOULD FIND: creating-an-account
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  profile-settings-privacy.md  (score: 0.0)
+  More in this topic
+  ## More <mark>in</mark> this topic
+
+- About Your Profile and Job Search Preferences
+- Creating a Resume on Indeed
+- Resume Options Menu: Managing a Resume
+- Adding or Editing Profile and Job Search Preferences
+- Why Was...
+
+  profile-preferences.md  (score: 0.0)
+  More in this topic
+  ## More <mark>in</mark> this topic
+
+- Creating a Resume on Indeed
+- Resume Options Menu: Managing a Resume
+- Adding or Editing Profile and Job Search Preferences
+- Why Was My Profile Photo Removed?
+- FAQs: Creating, Uploading...
+
+  creating-an-account.md  (score: 0.0)
+  Creating an Account or Signing In
+  # Creating an Account or Signing <mark>In</mark>
+
+### Quick Summary
+
+At Indeed, our mission is to help you get a job. You can create a free account to access a range of valuable tools...
+
+  creating-an-account.md  (score: 0.0)
+  Signing in
+  ## Signing <mark>in</mark>
+
+Here's how to use Google, Apple, or a unique email to sign <mark>in</mark>.
+
+Important: It's important to sign <mark>in</mark> using the same method each time. You'll avoid...
+
+  whats-new.md  (score: 0.0)
+  Passkeys
+  ## Passkeys
+
+Passkeys are a safer, simpler way to sign <mark>in</mark> to your Indeed account. They use your device's built-<mark>in</mark> security, like a fingerprint, face scan, or screen lock. This means...
+
+  5 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  profile-preferences.md  (score: 0.0318)
+  More in this topic
+  ## More <mark>in</mark> this topic
+
+- Creating a Resume on Indeed
+- Resume Options Menu: Managing a Resume
+- Adding or Editing Profile and Job Search Preferences
+- Why Was My Profile Photo Removed?
+- FAQs: Creating, Uploading...
+
+  profile-settings-privacy.md  (score: 0.0315)
+  More in this topic
+  ## More <mark>in</mark> this topic
+
+- About Your Profile and Job Search Preferences
+- Creating a Resume on Indeed
+- Resume Options Menu: Managing a Resume
+- Adding or Editing Profile and Job Search Preferences
+- Why Was...
+
+  creating-an-account.md  (score: 0.03)
+  Creating an Account or Signing In
+  # Creating an Account or Signing <mark>In</mark>
+
+### Quick Summary
+
+At Indeed, our mission is to help you get a job. You can create a free account to access a range of valuable tools...
+
+  whats-new.md  (score: 0.0293)
+  Passkeys
+  ## Passkeys
+
+Passkeys are a safer, simpler way to sign <mark>in</mark> to your Indeed account. They use your device's built-<mark>in</mark> security, like a fingerprint, face scan, or screen lock. This means...
+
+  creating-an-account.md  (score: 0.0291)
+  Signing in
+  ## Signing <mark>in</mark>
+
+Here's how to use Google, Apple, or a unique email to sign <mark>in</mark>.
+
+Important: It's important to sign <mark>in</mark> using the same method each time. You'll avoid...
+
+  5 result(s)
+
+==================================================
+QUESTION: make my resume private
+SHOULD FIND: resume-builder
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  what-employers-see-pre2022.md  (score: 6.2616)
+  What do Employers see on my profile? (cont.)
+  ...For more information on <mark>making</mark> your <mark>resume</mark> <mark>private</mark>, please visit our Help Center article about how to change your <mark>resume</mark> visibility settings.
+
+  what-employers-see-pre2022.md  (score: 3.261)
+  What do Employers see on my profile?
+  ...Certifications
+
+If you've made your <mark>resume</mark> "<mark>Private</mark>" on your profile, Employers will not be able to access your <mark>resume</mark> from our database. They will still be able to see your <mark>resume</mark>...
+
+  creating-an-account.md  (score: 2.6298)
+  Technical support
+  ...I need to correct <mark>my</mark> email address.
+
+Solution: Sign in using the incorrect email address. Next, access your Account settings to <mark>make</mark> email corrections.
+
+Problem: I can't bypass hCaptcha.
+
+Solution: Sign...
+
+  resume-builder.md  (score: 1.8365)
+  Convert a resume from an existing file
+  ...Click Upload <mark>resume</mark> on your Profile and select your <mark>resume</mark> file.
+2. When it's uploaded, Convert to Indeed <mark>Resume</mark> and click Convert.
+3. Review your <mark>resume</mark> to <mark>make</mark> edits and select...
+
+  whats-new.md  (score: 1.7261)
+  What's New on Indeed?
+  # What's New on Indeed?
+
+### Quick summary
+
+We want to <mark>make</mark> it easier for you to find a job and apply. That's why we're adding new features and improving old...
+
+  5 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  what-employers-see-pre2022.md  (score: 0.0318)
+  What do Employers see on my profile? (cont.)
+  ...For more information on <mark>making</mark> your <mark>resume</mark> <mark>private</mark>, please visit our Help Center article about how to change your <mark>resume</mark> visibility settings.
+
+  what-employers-see-pre2022.md  (score: 0.0315)
+  Related articles
+  ## Related articles
+
+- How do I change visibility settings for <mark>my</mark> Indeed <mark>resume</mark>?
+- How do I view <mark>my</mark> <mark>resume</mark> on Indeed?
+- Why is there an Indeed email on <mark>my</mark> <mark>resume</mark>?
+- How to access...
+
+  resume-builder.md  (score: 0.0311)
+  Related articles
+  ## Related articles
+
+- How do I change the visibility settings for <mark>my</mark> Indeed <mark>Resume</mark>?
+- How Do I Download and Print <mark>My</mark> <mark>Resume</mark>?
+- How to Apply to a Job on Indeed
+- How to Edit...
+
+  resume-builder.md  (score: 0.0308)
+  Convert a resume from an existing file
+  ...Click Upload <mark>resume</mark> on your Profile and select your <mark>resume</mark> file.
+2. When it's uploaded, Convert to Indeed <mark>Resume</mark> and click Convert.
+3. Review your <mark>resume</mark> to <mark>make</mark> edits and select...
+
+  what-employers-see-pre2022.md  (score: 0.0302)
+  What do Employers see on my profile?
+  ...Certifications
+
+If you've made your <mark>resume</mark> "<mark>Private</mark>" on your profile, Employers will not be able to access your <mark>resume</mark> from our database. They will still be able to see your <mark>resume</mark>...
+
+  5 result(s)
+
+==================================================
+QUESTION: can employers see my profile
+SHOULD FIND: profile-settings-privacy
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  what-employers-see-pre2022.md  (score: 5.5784)
+  What do Employers see on my profile? (cont.)
+  ...<mark>Employers</mark> will never be able to <mark>see</mark> your personal contact information without your explicit stated interest in their role.
+
+For more information on account security, please visit our Security page.
+
+For more...
+
+  what-employers-see-pre2022.md  (score: 4.8115)
+  What do Employers see on my profile?
+  # What do <mark>Employers</mark> <mark>see</mark> on <mark>my</mark> <mark>profile</mark>?
+
+As the topic of privacy becomes more important to people and businesses, we want to show you exactly what information <mark>Employers</mark> have access to when...
+
+  profile-settings-privacy.md  (score: 3.6274)
+  Profile Settings Menu: Managing Your Privacy
+  ...On this page, you <mark>can</mark> learn where to find this menu, what each setting means, and what <mark>employers</mark> <mark>can</mark> or <mark>can</mark>'t <mark>see</mark>.
+
+  profile-settings-privacy.md  (score: 3.1952)
+  Changing your Profile Settings menu
+  ...does '<mark>Employers</mark> <mark>can</mark>'t find you' mean?
+
+Your <mark>profile</mark> is not searchable.
+
+- <mark>Employers</mark> <mark>can</mark>'t contact you unless you've applied.
+- They <mark>can</mark>'t view your job search activity or <mark>see</mark> if...
+
+  resume-builder.md  (score: 2.8102)
+  Manage your resume
+  ...Click the 3 dots to <mark>see</mark> these options.
+
+Change privacy
+
+- <mark>Employers</mark> <mark>can</mark> search and find your resume when it's set to Searchable on Indeed.
+- Not searchable on Indeed: <mark>Employers</mark>, recruiters, and...
+
+  5 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  what-employers-see-pre2022.md  (score: 0.0328)
+  What do Employers see on my profile? (cont.)
+  ...<mark>Employers</mark> will never be able to <mark>see</mark> your personal contact information without your explicit stated interest in their role.
+
+For more information on account security, please visit our Security page.
+
+For more...
+
+  what-employers-see-pre2022.md  (score: 0.0323)
+  What do Employers see on my profile?
+  # What do <mark>Employers</mark> <mark>see</mark> on <mark>my</mark> <mark>profile</mark>?
+
+As the topic of privacy becomes more important to people and businesses, we want to show you exactly what information <mark>Employers</mark> have access to when...
+
+  profile-settings-privacy.md  (score: 0.0315)
+  Profile Settings Menu: Managing Your Privacy
+  ...On this page, you <mark>can</mark> learn where to find this menu, what each setting means, and what <mark>employers</mark> <mark>can</mark> or <mark>can</mark>'t <mark>see</mark>.
+
+  profile-settings-privacy.md  (score: 0.0308)
+  Changing your Profile Settings menu
+  ...does '<mark>Employers</mark> <mark>can</mark>'t find you' mean?
+
+Your <mark>profile</mark> is not searchable.
+
+- <mark>Employers</mark> <mark>can</mark>'t contact you unless you've applied.
+- They <mark>can</mark>'t view your job search activity or <mark>see</mark> if...
+
+  profile-settings-privacy.md  (score: 0.0299)
+  More in this topic
+  ...Managing a Resume
+- Adding or Editing <mark>Profile</mark> and Job Search Preferences
+- Why Was <mark>My</mark> <mark>Profile</mark> Photo Removed?
+
+  5 result(s)
+
+==================================================
+QUESTION: passkey
+SHOULD FIND: whats-new
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  whats-new.md  (score: 5.1569)
+  Passkeys
+  ## <mark>Passkeys</mark>
+
+<mark>Passkeys</mark> are a safer, simpler way to sign in to your Indeed account. They use your device's built-in security, like a fingerprint, face scan, or screen lock. This means...
+
+  whats-new.md  (score: 2.9953)
+  What's New on Indeed?
+  ...Here's what's new:
+
+- Indeed Career Scout
+- <mark>Passkeys</mark>
+
+  2 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  whats-new.md  (score: 0.0328)
+  Passkeys
+  ## <mark>Passkeys</mark>
+
+<mark>Passkeys</mark> are a safer, simpler way to sign in to your Indeed account. They use your device's built-in security, like a fingerprint, face scan, or screen lock. This means...
+
+  whats-new.md  (score: 0.032)
+  What's New on Indeed?
+  ...Here's what's new:
+
+- Indeed Career Scout
+- <mark>Passkeys</mark>
+
+  creating-an-account.md  (score: 0.0161)
+  Related articles
+  ## Related articles
+
+- How Do I Close My Account?
+- Resetting or Changing a Password
+- Why is there an Indeed email on my resume?
+- Indeed Job Seeker Guidelines
+- Desktop Browsers: Clearing Chrome and...
+
+  what-employers-see-pre2022.md  (score: 0.0156)
+  Related articles
+  ## Related articles
+
+- How do I change visibility settings for my Indeed resume?
+- How do I view my resume on Indeed?
+- Why is there an Indeed email on my resume?
+- How to access my messages
+- How Do ...
+
+  profile-preferences.md  (score: 0.0154)
+  More in this topic
+  ## More in this topic
+
+- Creating a Resume on Indeed
+- Resume Options Menu: Managing a Resume
+- Adding or Editing Profile and Job Search Preferences
+- Why Was My Profile Photo Removed?
+- FAQs: Creatin...
+
+  5 result(s)
+
+==================================================
+QUESTION: change my job preferences
+SHOULD FIND: profile-preferences
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  profile-preferences.md  (score: 3.316)
+  Adding or editing your preferences
+  ## Adding or editing your <mark>preferences</mark>
+
+- <mark>Change</mark> your <mark>preferences</mark> in your profile, on a <mark>job</mark> post, or during the application process
+- Find out more about adding or editing your profile and <mark>job</mark> search...
+
+  profile-settings-privacy.md  (score: 2.783)
+  More in this topic
+  ...Managing a Resume
+- Adding or Editing Profile and <mark>Job</mark> Search <mark>Preferences</mark>
+- Why Was <mark>My</mark> Profile Photo Removed?
+
+  profile-preferences.md  (score: 2.3883)
+  More in this topic
+  ...Managing a Resume
+- Adding or Editing Profile and <mark>Job</mark> Search <mark>Preferences</mark>
+- Why Was <mark>My</mark> Profile Photo Removed?
+- FAQs: Creating, Uploading, and Managing a Resume File
+
+  profile-preferences.md  (score: 2.3404)
+  About Your Profile and Job Search Preferences
+  # About Your Profile and <mark>Job</mark> Search <mark>Preferences</mark>
+
+In this article: Benefits · Types of <mark>preferences</mark> · Where you'll find your <mark>preferences</mark> · Adding or editing your <mark>preferences</mark>
+
+Your <mark>preferences</mark> help you find <mark>jobs</mark> that...
+
+  profile-preferences.md  (score: 2.3145)
+  Where you'll find your preferences
+  ...<mark>preferences</mark> using these buttons.
+
+### In your <mark>job</mark> search results
+
+- Match overview shows how your qualifications match what the employer is looking for.
+- <mark>Job</mark> details show how your <mark>preferences</mark> match the <mark>job</mark>.
+
+Tip...
+
+  5 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  profile-preferences.md  (score: 0.0328)
+  Adding or editing your preferences
+  ## Adding or editing your <mark>preferences</mark>
+
+- <mark>Change</mark> your <mark>preferences</mark> in your profile, on a <mark>job</mark> post, or during the application process
+- Find out more about adding or editing your profile and <mark>job</mark> search...
+
+  profile-settings-privacy.md  (score: 0.032)
+  More in this topic
+  ...Managing a Resume
+- Adding or Editing Profile and <mark>Job</mark> Search <mark>Preferences</mark>
+- Why Was <mark>My</mark> Profile Photo Removed?
+
+  profile-preferences.md  (score: 0.032)
+  More in this topic
+  ...Managing a Resume
+- Adding or Editing Profile and <mark>Job</mark> Search <mark>Preferences</mark>
+- Why Was <mark>My</mark> Profile Photo Removed?
+- FAQs: Creating, Uploading, and Managing a Resume File
+
+  profile-preferences.md  (score: 0.0312)
+  About Your Profile and Job Search Preferences
+  # About Your Profile and <mark>Job</mark> Search <mark>Preferences</mark>
+
+In this article: Benefits · Types of <mark>preferences</mark> · Where you'll find your <mark>preferences</mark> · Adding or editing your <mark>preferences</mark>
+
+Your <mark>preferences</mark> help you find <mark>jobs</mark> that...
+
+  profile-preferences.md  (score: 0.0301)
+  Where you'll find your preferences
+  ...<mark>preferences</mark> using these buttons.
+
+### In your <mark>job</mark> search results
+
+- Match overview shows how your qualifications match what the employer is looking for.
+- <mark>Job</mark> details show how your <mark>preferences</mark> match the <mark>job</mark>.
+
+Tip...
+
+  5 result(s)
+
+==================================================
+QUESTION: upload resume
+SHOULD FIND: resume-builder
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  resume-builder.md  (score: 2.6736)
+  Convert a resume from an existing file
+  ## Convert a <mark>resume</mark> from an existing file
+
+The wizard populates each section with info from your <mark>resume</mark>.
+
+1. Click <mark>Upload</mark> <mark>resume</mark> on your Profile and select your <mark>resume</mark> file.
+2. When it...
+
+  profile-preferences.md  (score: 2.3803)
+  More in this topic
+  ## More in this topic
+
+- Creating a <mark>Resume</mark> on Indeed
+- <mark>Resume</mark> Options Menu: Managing a <mark>Resume</mark>
+- Adding or Editing Profile and Job Search Preferences
+- Why Was My Profile Photo Removed?
+- FAQs: Creating, <mark>Uploading</mark>...
+
+  resume-builder.md  (score: 2.1534)
+  FAQs
+  ...Can I share the <mark>resume</mark> file I <mark>uploaded</mark>?
+
+Answer: Yes. Convert the file you <mark>uploaded</mark> to an Indeed <mark>Resume</mark> and set your privacy settings to Searchable on Indeed. Click Share a link...
+
+  resume-builder.md  (score: 1.309)
+  Manage your resume
+  ...This helps your <mark>resume</mark> pass employers' scanning software.
+5. Application insights
+
+<mark>Upload</mark> to replace <mark>resume</mark>
+
+Replace one Indeed <mark>Resume</mark> with another.
+
+Important: We can't restore your original Indeed <mark>Resume</mark> or store...
+
+  what-employers-see-pre2022.md  (score: 0.9828)
+  What do Employers see on my profile?
+  ...If you're using a <mark>resume</mark> that you've <mark>uploaded</mark> yourself, the Employer will have access to anything that you've included on the <mark>resume</mark>.
+
+If you've made your <mark>resume</mark> "Public...
+
+  5 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  resume-builder.md  (score: 0.0325)
+  Convert a resume from an existing file
+  ## Convert a <mark>resume</mark> from an existing file
+
+The wizard populates each section with info from your <mark>resume</mark>.
+
+1. Click <mark>Upload</mark> <mark>resume</mark> on your Profile and select your <mark>resume</mark> file.
+2. When it...
+
+  profile-preferences.md  (score: 0.0325)
+  More in this topic
+  ## More in this topic
+
+- Creating a <mark>Resume</mark> on Indeed
+- <mark>Resume</mark> Options Menu: Managing a <mark>Resume</mark>
+- Adding or Editing Profile and Job Search Preferences
+- Why Was My Profile Photo Removed?
+- FAQs: Creating, <mark>Uploading</mark>...
+
+  resume-builder.md  (score: 0.031)
+  FAQs
+  ...Can I share the <mark>resume</mark> file I <mark>uploaded</mark>?
+
+Answer: Yes. Convert the file you <mark>uploaded</mark> to an Indeed <mark>Resume</mark> and set your privacy settings to Searchable on Indeed. Click Share a link...
+
+  profile-settings-privacy.md  (score: 0.0301)
+  More in this topic
+  ## More in this topic
+
+- About Your Profile and Job Search Preferences
+- Creating a <mark>Resume</mark> on Indeed
+- <mark>Resume</mark> Options Menu: Managing a <mark>Resume</mark>
+- Adding or Editing Profile and Job Search Preferences
+- Why Was...
+
+  resume-builder.md  (score: 0.0301)
+  Resume Builder: Create or Convert a Resume
+  ...Create or Convert a <mark>Resume</mark>
+
+### Quick summary
+
+Indeed's <mark>Resume</mark> Builder is a wizard that fills editable sections using <mark>resume</mark> info. You can create a <mark>resume</mark> from scratch or convert an existing...
+
+  5 result(s)
+
+==================================================
+QUESTION: hcaptcha
+SHOULD FIND: creating-an-account
+--- Keyword search ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+
+  creating-an-account.md  (score: 3.4109)
+  Technical support
+  ...I can't bypass <mark>hCaptcha</mark>.
+
+Solution: Sign up for <mark>hCaptcha</mark> accessibility access. Follow the prompts to set up cookies for your browser or phone.
+
+  creating-an-account.md  (score: 2.2267)
+  Creating an Account or Signing In
+  ...Ready to start or sign in? Follow the instructions below.
+
+- Creating an account
+- Signing in
+- Technical support | I can't bypass <mark>hCaptcha</mark>.
+- FAQs | Can I use Indeed to search the job listings...
+
+  creating-an-account.md  (score: 1.9203)
+  Unique email address
+  ...or tap Create account.
+6. Look for the checkbox and the phrase I am human. <mark>hCaptcha</mark> protects your account against fraud and abuse.
+
+Confirm your account
+
+Another step is to verify the...
+
+  3 result(s)
+--- Hybrid search (keyword + meaning) ---
+gnosis_mcp: gnosis-mcp started: backend=sqlite path=/Users/jaymacinnes/.local/share/gnosis-mcp/docs.db sqlite-vec=True
+gnosis_mcp: Local embedder loaded: model=MongoDB/mdbr-leaf-ir dim=384
+
+  creating-an-account.md  (score: 0.0328)
+  Technical support
+  ...I can't bypass <mark>hCaptcha</mark>.
+
+Solution: Sign up for <mark>hCaptcha</mark> accessibility access. Follow the prompts to set up cookies for your browser or phone.
+
+  creating-an-account.md  (score: 0.0313)
+  Creating an Account or Signing In
+  ...Ready to start or sign in? Follow the instructions below.
+
+- Creating an account
+- Signing in
+- Technical support | I can't bypass <mark>hCaptcha</mark>.
+- FAQs | Can I use Indeed to search the job listings...
+
+  creating-an-account.md  (score: 0.0313)
+  Unique email address
+  ...or tap Create account.
+6. Look for the checkbox and the phrase I am human. <mark>hCaptcha</mark> protects your account against fraud and abuse.
+
+Confirm your account
+
+Another step is to verify the...
+
+  what-employers-see-pre2022.md  (score: 0.0161)
+  Related articles
+  ## Related articles
+
+- How do I change visibility settings for my Indeed resume?
+- How do I view my resume on Indeed?
+- Why is there an Indeed email on my resume?
+- How to access my messages
+- How Do ...
+
+  resume-builder.md  (score: 0.0159)
+  Related articles
+  ## Related articles
+
+- How do I change the visibility settings for my Indeed Resume?
+- How Do I Download and Print My Resume?
+- How to Apply to a Job on Indeed
+- How to Edit or Withdraw an Application...
+
+  5 result(s)
+
